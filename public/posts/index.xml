@@ -4,14 +4,15 @@
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | Control_Ak</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>control_Ak@proton.me (The_Agent)</managingEditor>
-            <webMaster>control_Ak@proton.me (The_Agent)</webMaster><lastBuildDate>Thu, 24 Jul 2025 14:19:57 &#43;0530</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>First</title>
-    <link>http://localhost:1313/first/</link>
-    <pubDate>Thu, 24 Jul 2025 14:19:57 &#43;0530</pubDate>
+            <webMaster>control_Ak@proton.me (The_Agent)</webMaster><copyright>Everything is mine</copyright><lastBuildDate>Sat, 26 Jul 2025 12:27:48 &#43;0530</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Ai is not actually an AI</title>
+    <link>http://localhost:1313/first-post/</link>
+    <pubDate>Sat, 26 Jul 2025 12:27:48 &#43;0530</pubDate>
     <author>The_Agent</author>
-    <guid>http://localhost:1313/first/</guid>
-    <description><![CDATA[<h1 id="hello">hello</h1>
-<p>system chote</p>]]></description>
+    <guid>http://localhost:1313/first-post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/first_post/1.jpg" referrerpolicy="no-referrer">
+            </div>Intelligence is an innate ability to infer something out of Nothing.]]></description>
 </item>
 </channel>
 </rss>
