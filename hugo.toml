@@ -1,5 +1,5 @@
-baseURL = "http://control_Ak.org/"
-
+#baseURL = "https://fogaatankush.github.io/control_Ak"
+baseURL = "http://localhost:1313"
 
 
 # Change the default theme to be use when building the site with Hugo
@@ -165,7 +165,7 @@ enableEmoji = true
 
   # website images for Open Graph and Twitter Cards
   # TO DO
-  #images = ["/logo.png"]
+  #images = ["logo.png"]
 
 
 # Author config
@@ -194,7 +194,7 @@ enableEmoji = true
      
       # URL of the LOGO
 
-      logo = "/logo/logo_circle.png"
+      logo = "logo/logo_circle.png"
 
       # title name
 
@@ -1273,3 +1273,7 @@ enableEmoji = true
   section = ["HTML", "RSS"]
 
   taxonomy = ["HTML", "RSS"]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
